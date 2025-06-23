@@ -1,5 +1,7 @@
 # Quantum Machine Learning
 
+Go through QuML.ipynb first for introduction.
+
 ### Quantum Computing
 Uses quantum properties of quantum bits (qubits), and [consequent] quantum algorithms to process information better or faster than classical computer.
 
