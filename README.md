@@ -11,7 +11,7 @@ Statistics on steroids to get data derived patterns, predictions, or decisions.
 ## Quantum Machine Learning
 Augment these machine learning techniques using quantum circuits/algorithms- either to enhance computation and optimization beyond classical scope or to represent data more effeciently
 
-### Pre-Requisites:
+### what to know
 - **Quantum Computing Foundations:**  Qubits, superposition, entanglement, unitary operations, measurement
 - **Linear Algebra:** Hilbert spaces, tensor products, operators, eigenvalues
 - **Classical ML Basics:** Supervised/unsupervised learning, optimization, loss functions
