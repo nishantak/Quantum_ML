@@ -19,3 +19,5 @@ Augment these machine learning techniques using quantum circuits/algorithms- eit
 
 ## Expressivity
 Gauge how well our model works. Kind of interpreting what the model is doing with our data.
+
+> Notebooks are self-explainatory.
