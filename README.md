@@ -16,3 +16,6 @@ Augment these machine learning techniques using quantum circuits/algorithms- eit
 - **Linear Algebra:** Hilbert spaces, tensor products, operators, eigenvalues
 - **Classical ML Basics:** Supervised/unsupervised learning, optimization, loss functions
 - **Relevant Quantum Algorithms:** Variational Quantum Circuits (VQC), Quantum SVMs, Quantum Approximate Optimization Algorithm (QAOA), Quantum PCA, Quantum FT
+
+## Expressivity
+Gauge how well our model works. Kind of interpreting what the model is doing with our data.
